@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adesh 👋
+
+DevOps Engineer with 2 years of experience.
+
+## Skills
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Git & GitHub
+- Networking
+
+## Projects
+- AWS Infrastructure using Terraform
+- Dockerized Web Application
+- Kubernetes Deployment
+- Jenkins CI/CD Pipeline
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/adesh-jagtap-cloudnative?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email: jagtapadesh55@gmail.com
 
 <!--
 **aadeshjagtap/aadeshjagtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
